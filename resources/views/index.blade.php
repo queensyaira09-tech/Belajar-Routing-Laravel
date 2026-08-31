@@ -19,7 +19,7 @@
         <li>Dibuat oleh calon web developer terbaik</li>
     </ul>
 
-    <h3>Cara Bergabung ke Media online </h3>
+    <h3>Cara Bergabung ke Media Online </h3>
 
     <ol>
         <li>Mengunjungi Website ini</li>
